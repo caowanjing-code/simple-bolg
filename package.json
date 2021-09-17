@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "body-parser": "^1.19.0",
+    "koa": "^2.13.1",
+    "koa-bodyparser": "^4.3.0",
+    "koa-ejs": "^4.3.0",
+    "koa-parser": "^1.0.8",
+    "koa-router": "^10.1.1"
+  }
+}
